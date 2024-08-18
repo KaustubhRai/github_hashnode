@@ -29,9 +29,9 @@ jobs:
       
       - name: Filter markdown files
         run: |
-          echo "::set-output name=added_files::$(echo "${{steps.changed-files.outputs.added_files}}" | grep '\.md$')"
-          echo "::set-output name=modified_files::$(echo "${{steps.changed-files.outputs.modified_files}}" | grep '\.md$')"
-          echo "::set-output name=deleted_files::$(echo "${{steps.changed-files.outputs.deleted_files}}" | grep '\.md$')"
+          echo "::set-output name=added_files::$(echo "${{steps.changed-files.outputs.added_files}}" | grep '\.md$')" >> $GITHUB_OUTPUT
+          echo "::set-output name=modified_files::$(echo "${{steps.changed-files.outputs.modified_files}}" | grep '\.md$')" >> $GITHUB_OUTPUT
+          echo "::set-output name=deleted_files::$(echo "${{steps.changed-files.outputs.deleted_files}}" | grep '\.md$')" >> $GITHUB_OUTPUT
 
       - name: Hashnode Github Sync
         uses: iammarmirza/hashnode-github-sync@v1.5
