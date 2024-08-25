@@ -9,8 +9,8 @@ jobs:
   publish_to_hashnode:
     runs-on: ubuntu-latest
     name: Hashnode Github Sync
-    permissions:
-      contents: write # Make sure to provide this write permission if you are using two way sync, not required if you're using only one way sync i.e : Github to Hashnode
+    # permissions:
+    #   contents: write # Make sure to provide this write permission if you are using two way sync, not required if you're using only one way sync i.e : Github to Hashnode
 
     steps:
       - uses: actions/checkout@v4
