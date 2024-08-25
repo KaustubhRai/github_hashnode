@@ -1,12 +1,11 @@
 ---
-title: Test Article
+title: "Test Article"
 delisted: true
 isNewsletterActivated: false
 ---
 
 # This is test article's heading
-This is test article's paragraph
-guhjklasdjn
 
+This is test article's paragraph.
 
-hjklasdijk
+Additional content for the blog post goes here.
