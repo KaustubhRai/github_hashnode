@@ -8,7 +8,7 @@ on:
   #     types: [trigger] # This is for the two way sync from Hashnode, to use this you will have to set up a serverless function as a middleware.
 
 jobs:
-  publish_to_hashnode:
+  print_file_job:
     runs-on: ubuntu-latest
     name: Hashnode Github Sync
     # permissions:
@@ -27,8 +27,9 @@ jobs:
 
       - name: Hashnode Github Sync
         uses: iammarmirza/hashnode-github-sync@v1.5
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+        env: 
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} 
+          # This is your default github token
         with:
         # All of these fields are required except hashnode_event
           hashnode_host: "kaustubhrai.hashnode.dev" # Your hashnode host name
