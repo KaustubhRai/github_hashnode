@@ -2,15 +2,17 @@ name: "Publish"
 
 on:
   push:
-  repository_dispatch:
-      types: [trigger] # This is for the two way sync from Hashnode, to use this you will have to set up a serverless function as a middleware.
+    branches:
+      - main
+  # repository_dispatch:
+  #     types: [trigger] # This is for the two way sync from Hashnode, to use this you will have to set up a serverless function as a middleware.
 
 jobs:
   publish_to_hashnode:
     runs-on: ubuntu-latest
     name: Hashnode Github Sync
-    # permissions:
-    #   contents: write # Make sure to provide this write permission if you are using two way sync, not required if you're using only one way sync i.e : Github to Hashnode
+    permissions:
+      contents: write # Make sure to provide this write permission if you are using two way sync, not required if you're using only one way sync i.e : Github to Hashnode
 
     steps:
       - uses: actions/checkout@v4
