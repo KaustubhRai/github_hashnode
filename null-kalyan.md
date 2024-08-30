@@ -1,31 +1,95 @@
 ---
+# Required! - title of your blog
 title: "OWASP NULL Kalyan - 23rd June 2024"
-subtitle: "An Insightful Subtitle to Catch Attention"
-cover: "https://yourimageurl.com/cover.jpg"  # Optional: Add a cover image URL
-tags: 
-  - tag1
-  - tag2
-  - tag3
-published: true  # Set to 'false' if you don't want to publish immediately
+
+# Optional? - subtitle of your blog
+subtitle: "Your Blog Subtitle Here"
+
+# Optional? - Is hidden from Hashnode feed?
+delisted: false
+
+# Optional? - Cover Image URL
+coverImageUrl: "https://yourimageurl.com/cover.jpg"
+
+# Optional? - Publish date
+publishedAt: "2024-08-30T10:00:00Z"
+
+# Optional? - Is Cover Image Attribution hidden
+isCoverAttributionHidden: false
+
+# Optional? - Cover Image Attribution
+coverImageAttribution: "Image by Your Name or Source"
+
+# Optional? - Cover Image Photographer
+coverImagePhotographer: "Photographer Name"
+
+# Optional? - Stick Cover to bottom
+stickCoverToBottom: false
+
+# Optional? - Original Article URL
+originalArticleURL: "https://originalarticleurl.com"
+
+# Optional? - Disable Comments
+disableComments: false
+
+# Optional? - Meta tag title
+ogTitle: "Your Meta Tag Title Here"
+
+# Optional? - Meta tag description
+ogDescription: "A brief description for meta tags."
+
+# Optional? - Meta tag Image
+ogImage: "https://yourimageurl.com/meta.jpg"
+
+# Optional? - Tag list
+tags:
+  - id: "1"
+    name: "Tech"
+    slug: "tech"
+  - id: "2"
+    name: "Programming"
+    slug: "programming"
+
+# Optional? - Publish As
+publishAs: "kaustubh"
+
+# Optional? - Series ID 
+seriesId: "123456"
+
+# Optional? - Enable Table of Content
+enableTableOfContent: true
+
+# Optional? - Is Newsletter Activated
+isNewsletterActivated: false
+
+# Optional? - Is Scheduled
+scheduled: false
+
+# Optional? - Is Slug Overridden
+slugOverridden: false
+
+# Optional? - CoAuthors
+coAuthors: ["sumir"]
 ---
 
-# Introduction
+# Your Blog Title Here
 
-*Your introductory text here* - this section should hook the reader's interest. Briefly explain what the post is about.
+Your introductory paragraph goes here. Introduce the topic and engage your readers.
 
 ---
 
-## Main Content Heading
+## Section 1: Subheading
 
-Here is where the main content of your post goes. Break your text into paragraphs to make it more readable. 
+This is the main content of your blog. Break your content into sections and use subheadings to make it easy to navigate.
 
-- **Tip 1:** Keep paragraphs short and to the point.
-- **Tip 2:** Use bullet points or lists to organize information.
+- **Point 1:** Use bullet points to emphasize key points.
+- **Point 2:** Keep your content concise and engaging.
 
-### Subheading 1
+### Subsection: Detailed Explanation
 
-Include subheadings to divide the content into sections. This improves readability and helps guide the reader.
+Go deeper into the topic in subsections as necessary. Use code blocks, images, and links to enrich the content.
 
 ```code
-# If your content includes code, use code blocks like this one
-print("Hello, World!")
+# Example code block
+def example_function():
+    print("Hello, World!")
