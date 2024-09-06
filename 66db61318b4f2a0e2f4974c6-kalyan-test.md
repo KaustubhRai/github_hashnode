@@ -59,20 +59,8 @@ Blockquotes
 
 ### Table
 
-<table>
-<tr>
-<th>Heading 1</th>
-<th>Heading 2</th>
-</tr>
-<tr>
-| 9999999999 | 9999999999 |
-| 999999999 | 999999999 |
-</tr>
-</table>
-
-
-| Default | Left align | Center align | Right align |
-| 9999999999 | 9999999999 | 9999999999 | 9999999999 |
-| 999999999 | 999999999 | 999999999 | 999999999 |
-| 99999999 | 99999999 | 99999999 | 99999999 |
-| 9999999 | 9999999 | 9999999 | 9999999 |
+Coloumn 1  | Coloumn 2  | Coloumn 3    
+----- | :---- | :----: 
+Row 1 | Row 2 | Row 3   
+Row 1 | Row 2 | Row 3
+Row 1 | Row 2 | Row 3  
