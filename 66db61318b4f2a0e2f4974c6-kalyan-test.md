@@ -74,15 +74,3 @@ Links
 
 
 
-<details>
-<summary>Click to Expand/Collapse</summary>
-
-* Item 1
-  
-* Item 2
-  
-* Item 3
-
-</details>
-
-
