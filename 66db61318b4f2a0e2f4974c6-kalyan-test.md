@@ -44,7 +44,7 @@ meme gif embeding, download locally and drag and drop from github UI  ¯\\\_(ツ
 
 
 
-Footnotes code for markdown, does not work with hashnode👎
+Footnotes, Collapsable items, colored text - all these stuff's code for markdown, does not work with hashnode👎
 
 
 **Bold Text**
