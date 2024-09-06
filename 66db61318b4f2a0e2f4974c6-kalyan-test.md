@@ -29,3 +29,8 @@ Code Block
 code stuff here
 ```
 
+### Image embed
+
+image
+
+![Why did it work](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fb1g2tyl2y2i01.png)
