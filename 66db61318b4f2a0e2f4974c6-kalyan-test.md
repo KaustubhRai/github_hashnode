@@ -31,6 +31,7 @@ code stuff here
 
 ### Image embed
 
-image
+image directly dragged and dropped in github
 
-![Why did it work](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fb1g2tyl2y2i01.png)
+![reddit_test](https://github.com/user-attachments/assets/4df2db13-ca94-4584-9c85-c6c19ae7840d)
+
