@@ -1,7 +1,7 @@
 ---
 title: second article push
 enableTableOfContent: true
-seriesId: 66db7fae5c9dd975a4bc0880
+seriesId: 66db7fc9e6ce4a59a1ec30b5
 ---
 
 # Your Blog Title Here
