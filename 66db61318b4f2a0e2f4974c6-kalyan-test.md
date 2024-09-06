@@ -77,37 +77,12 @@ Links
 <details>
   <summary>Collapsable Items</summary>
   
- <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+ 1] <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
 
- <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
+ 2] <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
 
- <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+ 3] <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
 
 </details>
 
 
-
-### Alerts
-
-> [!NOTE]
-> Essential details that users should not overlook, even when browsing quickly.
-
-<br>
-
-> [!TIP]
-> Additional advice to aid users in achieving better outcomes.
-
-<br>
-
-> [!IMPORTANT]
-> Vital information required for users to attain success.
-
-<br>
-
-> [!WARNING]
-> Urgent content that requires immediate user focus due to possible risks.
-
-<br>
-
-> [!CAUTION]
-> Possible negative outcomes resulting from an action.
