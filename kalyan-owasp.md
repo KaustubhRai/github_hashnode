@@ -1,7 +1,7 @@
 ---
 title: OWASP NULL Kalyan Notes Testing
 subtitle: OWASP Null Meet in Kalyan, Notes gathered
-tags: {
+metaTags: {
     "title": "xyz789",
   	"description": "xyz789",
 }
