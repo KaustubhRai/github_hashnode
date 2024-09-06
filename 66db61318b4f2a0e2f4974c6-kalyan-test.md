@@ -37,16 +37,21 @@ image directly dragged and dropped in github
 
 
 
-Footnote.[^1]
 
-Some other important footnote.[^2]
-
-
-
-meme gif embed
+meme gif embeding, download locally and drag and drop from github UI  ¯\\\_(ツ)_/¯ 
 
 ![white-boy-use-computer-great-work-i5is3on0clyywphm](https://github.com/user-attachments/assets/1f68826f-ddf0-4a95-8a07-c5949604a4c4)
 
 
-[^1]: This is footnote number one.
-[^2]: Here is the second footnote.
+
+Footnotes code for markdown, does not work with hashnode👎
+
+
+**Bold Text**
+
+_Italic Text_
+
+Blockquotes
+> The quick brown fox jumps over the lazy dog.
+
+>> The quick brown fox jumps over the lazy dog.
