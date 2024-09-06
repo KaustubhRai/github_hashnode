@@ -75,13 +75,11 @@ Links
 
 
 <details>
-  <summary>Collapsable Items</summary>
-  
- 1] <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+<summary>Click to Expand/Collapse</summary>
 
- 2] <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
-
- 3] <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+* Item 1
+* Item 2
+* Item 3
 
 </details>
 
