@@ -6,8 +6,7 @@ metaTags: {
   	"description": "xyz789",
 }
 enableTableOfContent: true
-publishAs: 65c264dddd2b9a3a3ef3b943 
-coAuthors: [rizwan]
+publishAs: 65c264dddd2b9a3a3ef3b943
 ---
 
 # Your Blog Title Here
