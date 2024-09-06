@@ -1,7 +1,7 @@
 ---
 title: second article push
 enableTableOfContent: true
-seriesId: notes
+seriesId: 66db7fae5c9dd975a4bc0880
 ---
 
 # Your Blog Title Here
