@@ -61,42 +61,17 @@ Blockquotes
 
 <table>
 <tr>
-<td width="33%"">
-The quick brown fox jumps over the lazy dog.
-</td>
-<td width="33%">
-The quick brown fox jumps over the lazy dog.
-</td>
-<td width="33%">
-The quick brown fox jumps over the lazy dog.
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <th>Heading 1</th>
 <th>Heading 2</th>
 </tr>
 <tr>
-
-<td>
-
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-
-</td><td>
-
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-
-</td></tr> </table>
+| 9999999999 | 9999999999 |
+| 999999999 | 999999999 |
+</tr>
+</table>
 
 
 | Default | Left align | Center align | Right align |
-| - | :- | :-: | -: |
 | 9999999999 | 9999999999 | 9999999999 | 9999999999 |
 | 999999999 | 999999999 | 999999999 | 999999999 |
 | 99999999 | 99999999 | 99999999 | 99999999 |
