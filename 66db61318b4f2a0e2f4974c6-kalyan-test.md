@@ -35,3 +35,8 @@ image directly dragged and dropped in github
 
 ![reddit_test](https://github.com/user-attachments/assets/4df2db13-ca94-4584-9c85-c6c19ae7840d)
 
+
+meme gif embed
+
+![white-boy-use-computer-great-work-i5is3on0clyywphm](https://github.com/user-attachments/assets/1f68826f-ddf0-4a95-8a07-c5949604a4c4)
+
