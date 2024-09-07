@@ -5,6 +5,7 @@ publishedAt: '2024-09-06T20:08:17.451Z'
 tags: []
 enableTableOfContent: true
 coAuthors: [64f9fd4066710a285c2672e4,65c262c1f82b4fa17a1c54cc]
+coverImageUrl: https://unsplash.com/photos/a-stack-of-pancakes-topped-with-berries-and-syrup-ifRbLuMdnhY
 ---
 
 # Your Blog Title Here
